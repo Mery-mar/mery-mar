@@ -39,5 +39,5 @@
 ---
 
 ### 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/marzouk-meryem-66018a25b/](https://www.linkedin.com/in/meryem-marzouk-66018a25b/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meryem-marzouk-66018a25b/))  
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:marzoukmeryem.prof@gmail.com)  
