@@ -9,7 +9,12 @@
 ### 🚀 Tech Stack  
 
 #### 🔹💻 **Programming & Automation**  
-- **Languages:** Python, JavaScript, C++, Java  
+- **Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Django, Node.js, PHP  
 - **Automation:** Bash, VBA  
