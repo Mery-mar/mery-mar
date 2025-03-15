@@ -61,8 +61,7 @@
 
 ---
 
-#### 🔹 **Databases**  
-- **Databases:**  
+#### 🔹 **Databases**    
   ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
   ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=white)  
