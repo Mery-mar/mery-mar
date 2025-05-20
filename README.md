@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Meryem! You can call me Mery 😉  
 
 🔹 Passionate about **Cybersecurity & Engineering**  
-🔹 Admitted to **EPITA**, preparing for my cybersecurity engineering journey.  
+🔹 Preparing for my cybersecurity engineering journey.  
 🔹 Always learning and building new projects  
 
 ---
